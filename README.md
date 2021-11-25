@@ -1,7 +1,7 @@
 ### Olá pessoal, eu sou Wellington 👋
 
-- 💼 Hoje trabalho com front-end
-- ✍ Estudando javaScript e react
+- 💼 Ttrabalho com front-end
+- ✍ Estudando react, node e mysql
 - 👨‍💻 Amo programar
 
   <div>
@@ -16,6 +16,7 @@
     <img align="center" alt="Wellington-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Wellington-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Wellington-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+    <img align="center" alt="Wellington-Python" height="30" width="40" src="https://img.icons8.com/color/48/000000/bootstrap.png">
   </div>
   
   ##
