@@ -3,6 +3,9 @@
 - 💼 Ttrabalho com front-end
 - ✍ Estudando react, node e mysql
 - 👨‍💻 Amo programar
+- 🌍 [PORTFÓLIO](https://wellingtondev.netlify.app/)
+- ![ProgrammerProgrammingGIF](https://user-images.githubusercontent.com/81135377/144106450-0a7ed006-8946-4ccc-b6a9-a8832514d0e2.gif)
+
 
   <div>
     <a href="https://github.com/Wellingtonoficial">
